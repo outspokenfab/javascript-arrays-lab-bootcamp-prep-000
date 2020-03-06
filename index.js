@@ -32,3 +32,5 @@ function prependKitten(name){
   const finalKittens = newKittens.concat(kittens);
   return finalKittens;
 }
+
+function remove
